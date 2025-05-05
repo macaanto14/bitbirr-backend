@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "BitBuild a full-stack web platform for BirBitt, a crypto buy/sell platform using Ethiopian Birr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitbirr/bitbirr-backend.git"
+  },
+  "keywords": [
+    "Crypto",
+    "Ethiopia"
+  ],
+  "author": "Ismail Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitbirr/bitbirr-backend/issues"
+  },
+  "homepage": "https://github.com/bitbirr/bitbirr-backend#readme"
+}
